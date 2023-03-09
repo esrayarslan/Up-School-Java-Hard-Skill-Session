@@ -15,7 +15,7 @@ public class Example5 {
 		
 	}
 	
-	public static int calculateFactorial(int number) {
+	public static double calculateFactorial(int number) {
 		if (number == 0) {
 			return 1;
 		} else {
