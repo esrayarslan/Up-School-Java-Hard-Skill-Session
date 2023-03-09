@@ -13,6 +13,7 @@ public class Example2 {
 		
 		for(int i = 1; i <= 5; i++) {
 			System.out.print(i + ". enter the number: ");
+			
 			double num = scanner.nextInt();
 			sum += num;
 			} 
