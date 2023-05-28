@@ -18,7 +18,6 @@ public class Main {
 
 
 	        menu.removeMeal(meal2);
-
 	        menu.printAllMeals();
 	    
 
