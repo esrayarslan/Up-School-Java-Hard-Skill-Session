@@ -1,4 +1,4 @@
-package hardSkillSession10;
+package HardSkillSession10;
 
 import java.util.Scanner;
 
